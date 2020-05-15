@@ -1,0 +1,44 @@
+
+  h1{
+      color: black;
+      font-family:Trattatello, fantasy;  
+  }
+
+  body{
+      background: whitesmoke;
+  }
+
+  .box{
+    border-style: solid;
+    border-color: black;
+   border-width: 5px;
+   text-align: center;
+   background-color: white;  
+  }
+  .aboutMe{
+      color: rgb(228, 7, 7);
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      text-align: center;
+  }
+
+  .music{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: whitesmoke;
+    font-size: larger;
+    text-align: center;
+    background-color: deepskyblue;
+  }
+
+    .contacts{
+        color:white;
+        font-family: inherit;
+        background-color: magenta;
+    }
+
+ .instagram{
+     color: fuchsia;  
+ }
+ 
+ .gmail{
+     color: lightseagreen;
+ }
